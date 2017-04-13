@@ -1,4 +1,4 @@
-package mycomp_test
+package golangUT_test
 
 
 import (
