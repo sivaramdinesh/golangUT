@@ -1,4 +1,4 @@
-package mycomp
+package golangUT
 
 
 // Compare returns an integer comparing two strings lexicographically.
