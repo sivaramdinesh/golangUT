@@ -1,4 +1,4 @@
-package golangUT
+package hacker
 
 
 // Compare returns an integer comparing two strings lexicographically.
