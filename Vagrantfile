@@ -1,5 +1,4 @@
 $installScript = <<SCRIPT
-echo "Downloading anf Settingup golang"
 sudo apt-get install -y golang-go
 SCRIPT
 VAGRANTFILE_API_VERSION = "2"
