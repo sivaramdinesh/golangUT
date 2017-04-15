@@ -11,5 +11,5 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box_check_update = false
 # Enable provisioning with a shell script. 
  #For more about provision visit: https://www.vagrantup.com/docs/provisioning/shell.html
-  config.vm.provision "shell", privileged: true inline: $installScript
+  config.vm.provision "shell", privileged: true, inline: $installScript
 end
